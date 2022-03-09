@@ -1,0 +1,10 @@
+name,age,income,gender,department,grade
+Allen Smith,45,NaN,NaN,Operations,G3
+S Kumar,NaN,16000,F,Finance,G0
+Jack Morgan,32,35000,M,Finance,G2
+Ying Chin,45,65000,F,Sales,G3
+Dheeraj Patel,30,42000,F,Operations,G2
+Satyam Sharma,NaN,62000,NaN,Sales,G3
+James Authur,54,NaN,F,Operations,G3
+Josh Wills,54,52000,F,Finance,G3
+Leo Duck,23,98000,M,Sales,G4
